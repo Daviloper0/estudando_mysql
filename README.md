@@ -1,5 +1,5 @@
-#Olá, seja muito bem vindo(a) ao meu portfólio de MySQL!
-Nesse arquivo README.md eu explico um pouco mais sobre cada arquivo e suas intenções por trás.
+# Olá!
+Seja muito bem vindo(a) ao meu portfólio de MySQL. Nesse arquivo README.md eu explico um pouco mais sobre cada arquivo e suas intenções por trás.
 
 # Pastas de Estudos MySQL
 Minha pasta de estudos de MySQL, onde eu resolvo alguns exercícios propostos pelo professor, que nesse caso é o Gustavo Guanabara. Além de outros desafios. O repositório inclui:
