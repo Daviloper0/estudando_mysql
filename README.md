@@ -18,7 +18,7 @@ O Guanabara propôs alguns exercícios para treinar o uso do select:
 - Selecionando utilizando o LIKE e os 'coringas';
 - Contando as ocorrências;
 - Pegando valores mínimos, médios e máximos que aparecem em determinada coluna.
-A minha resolução está no arquivo 'exercicios_guanabara_1', com as propostas de cada exercício comentadas no próprio arquivo SQL.
+A minha resolução está no arquivo 'exercicios_guanabara_1' e 'exercicios_guanabara_2', com as propostas de cada exercício comentadas no próprio arquivo SQL.
 
 # Desafios do servidor da Ballerini
 Era necessário montar uma query SQL para criação de uma tabela de livros com essa estrutura:
